@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item android:id="@+id/home_menu"
+        android:title="@string/home_menu_string"
+        android:orderInCategory="100" />
+
+    <item android:id="@+id/new_menu"
+        android:title="@string/new_menu_string"
+        android:orderInCategory="100" />
+
+    <item android:id="@+id/map_menu"
+        android:title="@string/map_menu_string"
+        android:orderInCategory="100" />
+</menu>

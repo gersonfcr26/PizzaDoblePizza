@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pizza Doble Pizza</string>
+
+    <string name="home_menu_string">Home</string>
+    <string name="new_menu_string">Nueva Sede</string>
+    <string name="map_menu_string">Mapa</string>
+</resources>
